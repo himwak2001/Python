@@ -1,0 +1,1 @@
+print("Datatype in python");
